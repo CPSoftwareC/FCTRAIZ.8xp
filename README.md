@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.0 -->
+<!-- README.md Versão 1.1 -->
 <h1>Prgm FCTRAIZ (<strong><em>Fatorização(factorization) de Raízes</em></strong>)</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/FCTRAIZ.8xp/total?style=plastic)
 
 ![menu](https://user-images.githubusercontent.com/67112321/97781243-df899900-1b81-11eb-849f-fae69aa29d9c.png)
 
